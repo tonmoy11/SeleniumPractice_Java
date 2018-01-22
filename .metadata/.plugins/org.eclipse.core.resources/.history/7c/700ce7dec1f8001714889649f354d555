@@ -1,0 +1,25 @@
+package MultipleWaysToLocateElements;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class FindByclassName {
+
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Driver Files/chromedriver");	
+		WebDriver tomar = new ChromeDriver();
+		tomar.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		String baseURL = "http://demostore.x-cart.com/";
+		tomar.manage().window().maximize();
+		tomar.get("baseURL");
+		System.out.println("step 1");
+		tomar.findElement(By.className("title")).click();
+		System.out.println("step 2");
+		
+		tomar.quit();
+	}
+
+}

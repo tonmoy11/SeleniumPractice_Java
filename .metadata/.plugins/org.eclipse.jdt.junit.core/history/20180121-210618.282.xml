@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GetTextDemo (1)" project="SeleniumPractice2" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="UsefulMethodsAndProperties_SelWeb.GetTextDemo" time="9.7">
+    <testcase name="test" classname="UsefulMethodsAndProperties_SelWeb.GetTextDemo" time="9.7"/>
+  </testsuite>
+</testrun>

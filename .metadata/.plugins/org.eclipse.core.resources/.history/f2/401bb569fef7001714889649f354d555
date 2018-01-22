@@ -1,0 +1,17 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class selexample {
+	
+	public static void main(String[] args) {
+		
+		WebDriver driver;
+		System.setProperty("webdriver.gecko.driver", "/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/chromedriver");
+		driver = new ChromeDriver();
+		
+		String baseURL = "http://www.google.com";
+		driver.get(baseURL);
+	}
+
+}

@@ -1,0 +1,47 @@
+package WoringWithWebElements;
+
+import static org.junit.Assert.*;
+
+import java.util.concurrent.TimeUnit;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+
+
+public class NavigatingBetweenPages {
+	
+	WebDriver driver;
+	String baseURL;
+	
+	@Before
+	public void setUp() throws Exception {
+		System.setProperty("webdriver.chrome.driver", "/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/chromedriver");
+		driver =new ChromeDriver();
+		baseURL = "https://letskodeit.teachable.com/";
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
+
+	@Test
+	public void test() {
+		driver.get(baseURL);
+		String title = driver.getTitle();
+		System.out.println(title);
+	
+		String currentURL = driver.getCurrentUrl();
+		System.out.println("current URL is : " + currentURL);
+		
+	}
+	
+	@After
+	public void tearDown() throws Exception {
+		driver.quit();
+	}
+
+	
+
+}
