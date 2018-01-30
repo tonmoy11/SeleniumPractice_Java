@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="WindowSize" project="SeleniumPractice2" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="WindowSize" time="11.759">
-    <testcase name="test" classname="WindowSize" time="11.759"/>
-  </testsuite>
-</testrun>
