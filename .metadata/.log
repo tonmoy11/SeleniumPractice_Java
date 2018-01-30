@@ -3813,3 +3813,14 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2018-01-30 15:51:16.513
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2018-01-30 16:38:51.782
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 16:50:19.932
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58812 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--564003775/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 58812 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--564003775/testng-customsuite.xml

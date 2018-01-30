@@ -1,0 +1,10 @@
+package appcode;
+
+public class SomeClassToTest {
+
+	public int SumNumbers(int a, int b){
+		a=1;
+		b=2;
+		return a + b; 
+	}
+}
