@@ -3824,3 +3824,502 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 58812 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--564003775/testng-customsuite.xml
 java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 58812 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--564003775/testng-customsuite.xml
+!SESSION 2018-01-30 16:54:14.210 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/tonmoyiskander/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/tonmoyiskander/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-30 16:59:01.835
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2018-01-30 17:21:53.143
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:28:48.613
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59144 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1632454887/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59144 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1632454887/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:29:40.042
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59147 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1130413412/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59147 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1130413412/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:30:04.598
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59149 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--834267714/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59149 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--834267714/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:30:39.308
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59153 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-565879506/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59153 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-565879506/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:31:03.548
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59155 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--453674431/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59155 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--453674431/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:49:42.362
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59276 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1296545551/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59276 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1296545551/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:51:10.240
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59280 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1902936002/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59280 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1902936002/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:51:38.016
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59283 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1536780462/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59283 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1536780462/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 17:52:01.190
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59285 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-618216271/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59285 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-618216271/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 18:30:54.283
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59463 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-48327053/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59463 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-48327053/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 18:50:20.643
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59510 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59510 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 18:53:19.154
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59523 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59523 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 18:55:43.857
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59531 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59531 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 18:59:40.742
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59549 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59549 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 19:00:53.996
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59553 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59553 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 19:01:50.071
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59556 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59556 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 19:28:37.666
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59732 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-suite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59732 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-suite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 19:37:16.958
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59751 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-suite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59751 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-suite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 19:37:58.750
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59757 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-test.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59757 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/regression-test.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 21:27:19.284
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59977 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--978749328/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59977 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--978749328/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 21:29:01.139
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59982 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1239312757/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59982 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1239312757/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 21:31:16.091
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59987 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-2129388560/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59987 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-2129388560/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 21:32:09.373
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59991 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1060287091/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 59991 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1060287091/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:28:11.591
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60548 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--2027381670/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60548 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--2027381670/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:32:06.663
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60559 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60559 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:33:04.214
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60563 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60563 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:33:36.590
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60566 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60566 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:37:33.523
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60597 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60597 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:55:00.784
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60675 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60675 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 22:56:14.501
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60680 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60680 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-groups.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:26:30.108
+!MESSAGE Could not find method: testclasses.TestNG_DependentTest.testmehtod1
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:26:31.383
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60840 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1354047024/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60840 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1354047024/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:27:47.611
+!MESSAGE Could not find method: testclasses.TestNG_DependentTest.testmehtod1
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:27:49.310
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60849 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--996725854/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60849 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--996725854/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:28:08.542
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60851 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1966256074/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60851 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1966256074/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:29:11.506
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60854 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-825383640/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60854 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-825383640/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:30:06.269
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60857 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1455899858/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60857 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1455899858/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:31:25.054
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60862 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-239996673/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60862 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-239996673/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:31:59.682
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60865 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-301369318/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60865 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-301369318/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:37:37.525
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60887 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1886218815/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60887 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1886218815/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:38:10.246
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60889 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1582554675/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60889 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-1582554675/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:39:13.016
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60892 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--450012468/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60892 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--450012468/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:39:31.049
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60896 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-176590249/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60896 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-176590249/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:40:04.415
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60898 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--491657294/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60898 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--491657294/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:40:18.888
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60900 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1243456645/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60900 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1243456645/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:40:34.194
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60903 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1074754381/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60903 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1074754381/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:52:18.785
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60922 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60922 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:54:33.587
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60930 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60930 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:55:59.125
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60934 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60934 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:56:47.760
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60938 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60938 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:57:47.083
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60943 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60943 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:58:01.388
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60945 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60945 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:58:18.341
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60947 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60947 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-30 23:58:31.364
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60950 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60950 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 00:00:27.492
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60957 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60957 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 00:00:39.010
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60959 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 60959 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-preserve-enable.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:46:01.218
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61461 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61461 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:46:57.415
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61465 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61465 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:47:31.758
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61468 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61468 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:50:33.606
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61494 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1951628370/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61494 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse--1951628370/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:54:12.387
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61515 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-2124522427/testng-customsuite.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61515 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /var/folders/43/2pr4w7v12qz6171tv8zhn13r0000gn/T/testng-eclipse-2124522427/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-01-31 01:54:43.251
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61519 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml
+java -ea -classpath /Users/tonmoyiskander/eclipse/java-neon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/476/0/.cp/lib/testng-remote.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/bin:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar:/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/jcommander-1.69.jar org.testng.remote.RemoteTestNG -serport 61519 -protocol json -d /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/test-output /Users/tonmoyiskander/Desktop/SeleniumWorkSpace/TestNGTutorial/testng-parameters.xml

@@ -1,0 +1,14 @@
+<suite name="Regression TestSuite">
+<test name="GroupsDemo">
+	<groups>
+		<run>
+			<include name="bikes"></include>
+			<include name = "suv"></include>
+		</run>
+	</groups>
+	<classes>
+		<class name="testclasses.TestNG_Grouping" />
+	</classes>
+</test>
+</suite>
+

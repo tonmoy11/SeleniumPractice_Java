@@ -1,25 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62" started-at="2018-01-30T21:50:20Z" finished-at="2018-01-30T21:50:20Z">
+  <suite name="Parameters TestSuite" duration-ms="49" started-at="2018-01-31T06:54:43Z" finished-at="2018-01-31T06:54:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62" started-at="2018-01-30T21:50:20Z" finished-at="2018-01-30T21:50:20Z">
-      <class name="testclasses.TestNG_TestAnnotation">
-        <test-method status="PASS" signature="testmethod1()[pri:0, instance:testclasses.TestNG_TestAnnotation@5cc7c2a6]" name="testmethod1" duration-ms="19" started-at="2018-01-30T16:50:20Z" finished-at="2018-01-30T16:50:20Z">
+    <test name="Test1" duration-ms="49" started-at="2018-01-31T06:54:43Z" finished-at="2018-01-31T06:54:43Z">
+      <class name="testclasses.TestNG_TestParameters">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:testclasses.TestNG_TestParameters@1efbd816]" name="beforeClass" is-config="true" duration-ms="13" started-at="2018-01-31T01:54:43Z" finished-at="2018-01-31T01:54:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testmethod1 -->
-        <test-method status="PASS" signature="testmethod2()[pri:0, instance:testclasses.TestNG_TestAnnotation@5cc7c2a6]" name="testmethod2" duration-ms="5" started-at="2018-01-30T16:50:20Z" finished-at="2018-01-30T16:50:20Z">
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMethod(java.lang.String)[pri:0, instance:testclasses.TestNG_TestParameters@1efbd816]" name="testMethod" duration-ms="7" started-at="2018-01-31T01:54:43Z" finished-at="2018-01-31T01:54:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[201,200]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testmethod2 -->
-        <test-method status="PASS" signature="testmethod3()[pri:0, instance:testclasses.TestNG_TestAnnotation@5cc7c2a6]" name="testmethod3" duration-ms="2" started-at="2018-01-30T16:50:20Z" finished-at="2018-01-30T16:50:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testmethod3 -->
-      </class> <!-- testclasses.TestNG_TestAnnotation -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- testMethod -->
+      </class> <!-- testclasses.TestNG_TestParameters -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Parameters TestSuite -->
 </testng-results>

@@ -49,4 +49,6 @@
 <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="Log4j2.LoggingDemo"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="appcode.SomeClassToTest"/>
 </qualifiedTypeNameHistroy>
