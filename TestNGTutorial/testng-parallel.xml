@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parameters TestSuite">
+	<test name="Test1">
+		<classes>
+			<class name="testclasses.TestNG_Parallel1"></class>
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="testclasses.TestNG_Parallel2"></class>
+		</classes>
+	</test>
+</suite>
+

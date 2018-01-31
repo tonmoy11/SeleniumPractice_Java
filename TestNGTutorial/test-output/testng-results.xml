@@ -1,40 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Parameters TestSuite" duration-ms="49" started-at="2018-01-31T06:54:43Z" finished-at="2018-01-31T06:54:43Z">
+  <suite name="Default suite" duration-ms="71" started-at="2018-01-31T20:44:10Z" finished-at="2018-01-31T20:44:10Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="49" started-at="2018-01-31T06:54:43Z" finished-at="2018-01-31T06:54:43Z">
-      <class name="testclasses.TestNG_TestParameters">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:testclasses.TestNG_TestParameters@1efbd816]" name="beforeClass" is-config="true" duration-ms="13" started-at="2018-01-31T01:54:43Z" finished-at="2018-01-31T01:54:43Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[mac]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="71" started-at="2018-01-31T20:44:10Z" finished-at="2018-01-31T20:44:10Z">
+      <class name="listeners.TestNG_ListenersTest1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:listeners.TestNG_ListenersTest1@1810399e]" name="setUp" is-config="true" duration-ms="16" started-at="2018-01-31T15:44:10Z" finished-at="2018-01-31T15:44:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testMethod(java.lang.String)[pri:0, instance:testclasses.TestNG_TestParameters@1efbd816]" name="testMethod" duration-ms="7" started-at="2018-01-31T01:54:43Z" finished-at="2018-01-31T01:54:43Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[201,200]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:listeners.TestNG_ListenersTest1@1810399e]" name="testMethod1" duration-ms="12" started-at="2018-01-31T15:44:10Z" finished-at="2018-01-31T15:44:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod -->
-      </class> <!-- testclasses.TestNG_TestParameters -->
-    </test> <!-- Test1 -->
-  </suite> <!-- Parameters TestSuite -->
+        </test-method> <!-- testMethod1 -->
+        <test-method status="FAIL" signature="testMethod2()[pri:0, instance:listeners.TestNG_ListenersTest1@1810399e]" name="testMethod2" duration-ms="3" started-at="2018-01-31T15:44:10Z" finished-at="2018-01-31T15:44:10Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at org.testng.Assert.assertTrue(Assert.java:51)
+	at listeners.TestNG_ListenersTest1.testMethod2(TestNG_ListenersTest1.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:listeners.TestNG_ListenersTest1@1810399e]" name="cleanUp" is-config="true" duration-ms="1" started-at="2018-01-31T15:44:10Z" finished-at="2018-01-31T15:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- listeners.TestNG_ListenersTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
