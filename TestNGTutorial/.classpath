@@ -14,5 +14,10 @@
 	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Jar Files/libs/byte-buddy-1.7.5.jar"/>
 	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Jar Files/client-combined-3.8.1.jar"/>
 	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Jar Files/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Extent Report Jars/sqlite-jdbc-3.21.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Extent Report Jars/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Extent Report Jars/freemarker-2.3.27-incubating.jar"/>
+	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Extent Report Jars/extentreports-2.40.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

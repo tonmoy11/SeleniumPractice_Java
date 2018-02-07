@@ -8,6 +8,7 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="&lt;suite name=&quot;Parameters TestSuite&quot;&gt;"/>
 			<item value="get"/>
 		</list>
 		<list key="replacehistory">
