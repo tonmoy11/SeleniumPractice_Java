@@ -1,8 +1,0 @@
-<suite name="Parameters TestSuite">
-	<test name= "Test1">
-		<classes>
-			<class name="testclasses.TestNG_TestParameters"></class>
-		</classes>
-	</test>
-</suite>
-

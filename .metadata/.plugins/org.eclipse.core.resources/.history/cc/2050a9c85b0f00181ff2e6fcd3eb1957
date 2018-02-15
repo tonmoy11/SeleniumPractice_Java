@@ -1,0 +1,49 @@
+package FileUploadAndWIndowsAuthentication;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeClass;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
+
+public class FileUploadWindows {
+  private WebDriver driver;
+  private String baseUrl;
+	
+  @BeforeClass
+  public void beforeClass() {
+	System.setProperty("webdriver.chrome.driver", "/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Driver Files/chromedriver");
+	driver = new ChromeDriver();
+	baseUrl = "https://www.gmail.com/";
+	// Maximize the browser's window
+	driver.manage().window().fullscreen();
+	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	driver.get(baseUrl);
+
+  }
+  
+  @Test
+  public void fileUpload() throws InterruptedException {
+	  driver.findElement(By.id("identifierId")).sendKeys("hingsro11@gmail.com");
+	  driver.findElement(By.cssSelector(".RveJvd")).click();
+	  System.out.println("1");
+	  Thread.sleep(1000);
+	  driver.findElement(By.className("RveJvd snByac")).sendKeys("Mahir1tahima2");
+	  System.out.println("1");
+	  Thread.sleep(1000);
+	  driver.findElement(By.className(".RveJvd snByac")).click();
+	  System.out.println("1");
+
+
+  }
+  
+  @AfterClass
+  public void afterClass() throws InterruptedException {
+	  Thread.sleep(3000);
+  }
+
+}

@@ -1,1 +1,1 @@
-[[{"location":"/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/TestNG Jar Files/testng-6.11.jar","type":"JAR","hints":{}},"org.testng:org.testng:6.11.0"]]
+[[{"location":"/Users/tonmoyiskander/Desktop/SeleniumWorkSpace/SeleniumJarFiles/Jar Files/client-combined-3.8.1.jar","type":"JAR","hints":{}},"com.google.guava:com.google.guava:23.0.0"],[{"location":"/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
